@@ -68,7 +68,7 @@ class _DashboardPageState extends State<DashboardPage> {
              )),
               Column(
                 children: [
-                  SizedBox(height: 20,),
+                  SizedBox(height: 19,),
                   Text(AppLocalizations.of(context).translate('bit_buy_1'),style: TextStyle(fontSize: 24,fontWeight: FontWeight.w300,color: Colors.white),) ,
                   SizedBox(height: 30
                     ,),
